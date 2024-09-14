@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.1](https://github.com/pkgjs/parseargs/compare/v0.11.0...v0.11.1) (2024-09-14)
+
+
+### Bug Fixes
+
+* **runtime:** support runtimes without `global` ([#158](https://github.com/pkgjs/parseargs/issues/158)) ([8038b6f](https://github.com/pkgjs/parseargs/commit/8038b6f67202d473f65cbea1541f029c87559c5e))
+
 ## [0.11.0](https://github.com/pkgjs/parseargs/compare/v0.10.0...v0.11.0) (2022-10-08)
 
 
